@@ -1,6 +1,6 @@
 //This is my days 20 progress for 100 days of code challange
 
-//Q40: Write a program to find the 1’s complement of a binary number and print it.
+Q40: Write a program to find the 1’s complement of a binary number and print it.
 
 /*
 Sample Test Cases:
