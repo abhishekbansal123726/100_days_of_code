@@ -1,3 +1,5 @@
+//This is my day 21 progress for 100 days of code challange
+
 //Q42: Write a program to check if a number is a perfect number.
 
 /*
