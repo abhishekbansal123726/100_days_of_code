@@ -1,3 +1,5 @@
+//This is my day 22 progress for 100 days of code challange
+
 //Q43: Write a program to check if a number is a strong number.
 
 /*
