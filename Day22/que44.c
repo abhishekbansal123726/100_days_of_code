@@ -1,6 +1,6 @@
 //This is my day 22 progress for 100 days of code challange
 
-//Q44: Write a program to find the sum of the series: 1 + 3/4 + 5/6 + 7/8 + … up to n terms.
+Q44: Write a program to find the sum of the series: 1 + 3/4 + 5/6 + 7/8 + … up to n terms.
 
 /*
 Sample Test Cases:
