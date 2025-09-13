@@ -1,7 +1,7 @@
 //This is my days 20 progress for 100 days of code challange
 
 
-//Q39: Write a program to find the product of odd digits of a number. 
+Q39: Write a program to find the product of odd digits of a number. 
 /* Sample Test Cases:
 Input 1:
 12345 
